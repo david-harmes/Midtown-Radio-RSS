@@ -3,3 +3,8 @@ https://feeds.transistor.fm/on-the-scene
 https://feeds.transistor.fm/makings-of-a-scene
 https://feeds.transistor.fm/midtown-conversations
 https://feeds.transistor.fm/community-by-design-exploring-social-infurstruction-in-waterloo-region
+https://feeds.transistor.fm/scene2iq
+https://feeds.transistor.fm/free-wizard-radio-w-ryan-the-plaid
+https://feeds.transistor.fm/radio-free-sundays
+https://feeds.transistor.fm/watershed-writers-w-tanis-macdonald
+https://feeds.transistor.fm/screamingintothemic
